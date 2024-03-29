@@ -1,3 +1,3 @@
-module github.com/kopia/htmluibuild
+module github.com/jasoryeh/htmluibuild
 
 go 1.21
